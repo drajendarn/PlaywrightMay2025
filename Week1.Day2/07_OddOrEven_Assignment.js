@@ -1,6 +1,5 @@
-const { log } = require("console");
 
-function isOddOrEven() //07_OddOrEven_Assignment.js
+function isOddOrEven() 
 {
     let number=7;
     
